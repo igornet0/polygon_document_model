@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#dataset
+
+dataset*/
+test/
+test.zip
+*.keras
+1/
+2/
+3/
+
 # C extensions
 *.so
 
